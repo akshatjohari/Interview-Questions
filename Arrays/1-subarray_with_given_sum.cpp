@@ -1,7 +1,6 @@
-Subarray with given sum
+// Subarray with given sum
 
-LINK:- https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
-
+// LINK:- https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
 
 class Solution
 {
